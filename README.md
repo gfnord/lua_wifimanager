@@ -11,3 +11,6 @@ Input the SSID and password of the wifi you want to connect and click on Save bu
 The device will connect, store the credentials in the device. On next boot it will look for this file and auto connect on the same network previously configured.
 
 Also it's included a code for a reset button that can be connected on D7 pin, to remove the credentials file and reboot the device, returning it to AP mode.
+
+![Configuration Web Form](https://github.com/gfnord/lua_wifimanager/blob/master/docs/webform.png?raw=true)
+![Logs](https://github.com/gfnord/lua_wifimanager/blob/master/docs/logs.png?raw=true)
